@@ -14,8 +14,8 @@
             </a>
         </td>
       <td align="center">
-            <a href="https://github.com/yh02195">                 
-                <img alt="박동준" src="https://avatars.githubusercontent.com/yh02195" width="150" />            
+            <a href="https://github.com/dongjundev">                 
+                <img alt="박동준" src="https://avatars.githubusercontent.com/dongjundev" width="150" />            
             </a>
         </td>
       </tr>
