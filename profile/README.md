@@ -1,6 +1,6 @@
 <div align="center">
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=320&section=header&text=With-Con&fontSize=90&fontAlignY=35&desc=%20Let's%20study%20Coding%20together!&descAlignY=60)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=320&section=header&text=Objectivist&fontSize=90&fontAlignY=35&desc=%20Let's%20study%20Coding%20together!&descAlignY=60)
  
 </div>
 
